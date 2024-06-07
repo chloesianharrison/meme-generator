@@ -1,0 +1,13 @@
+.Header {
+  height: 4rem;
+  background-color: #6C0345;
+  color: #FFF8DC;
+  /* margin-top: -1.5rem; */
+}
+
+.Header > h1{
+  text-align: left;
+  margin: auto;
+  padding-left: 2rem;
+  padding-top: 0.5rem;
+}
